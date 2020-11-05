@@ -1,0 +1,16 @@
+cython
+cffi
+opencv-python
+scipy
+easydict
+matplotlib
+pyyaml
+joblib
+pandas
+tqdm
+termcolor
+tabulate
+numpy
+six
+cffi
+torchvision==0.2
